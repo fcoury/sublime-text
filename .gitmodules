@@ -1,0 +1,9 @@
+[submodule "Packages/Abacus"]
+	path = Packages/Abacus
+	url = git://github.com/khiltd/Abacus.git
+[submodule "Packages/RubyTest"]
+	path = Packages/RubyTest
+	url = https://github.com/maltize/sublime-text-2-ruby-tests.git
+[submodule "Packages/Theme - Soda"]
+	path = Packages/Theme - Soda
+	url = https://github.com/buymeasoda/soda-theme/

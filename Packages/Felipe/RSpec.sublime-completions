@@ -1,0 +1,10 @@
+{
+		"scope": "source.ruby",
+
+		"completions":
+		[
+		    { "trigger": "it", "contents": "it \"$1\" do\n\t$0\nend" },
+		    { "trigger": "con", "contents": "context \"$1\" do\n\t$0\nend"},
+		    { "trigger": "des", "contents": "describe \"$1\" do\n\t$0\nend"}
+		]
+}

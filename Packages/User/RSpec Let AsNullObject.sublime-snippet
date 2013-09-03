@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[let(:${0:var}) { double(:${0:stub}).as_null_object }]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <!-- <tabTrigger>hello</tabTrigger> -->
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <tabTrigger>letn</tabTrigger>
+</snippet>

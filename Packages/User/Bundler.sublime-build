@@ -1,0 +1,6 @@
+{
+  "cmd": ["bundle", "install"],
+  "working_dir": "$project_path",
+  "file_regex": "Gemfile",
+  "selector": "source.ruby"
+}
