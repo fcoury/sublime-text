@@ -1,9 +1,21 @@
-[submodule "Packages/Abacus"]
-	path = Packages/Abacus
-	url = git://github.com/khiltd/Abacus.git
 [submodule "Packages/RubyTest"]
 	path = Packages/RubyTest
 	url = https://github.com/maltize/sublime-text-2-ruby-tests.git
 [submodule "Packages/Theme - Soda"]
 	path = Packages/Theme - Soda
 	url = https://github.com/buymeasoda/soda-theme/
+[submodule "Packages/Alignment"]
+	path = Packages/Alignment
+	url = git://github.com/kevinsperrine/sublime_alignment.git
+[submodule "Packages/AngularJS-sublime-package"]
+	path = Packages/AngularJS-sublime-package
+	url = git://github.com/angular-ui/AngularJS-sublime-package.git
+[submodule "Packages/CoffeeScript"]
+	path = Packages/CoffeeScript
+	url = git://github.com/jashkenas/coffee-script-tmbundle
+[submodule "Packages/sublime-text-2-jasmine"]
+	path = Packages/sublime-text-2-jasmine
+	url = git@github.com:gja/sublime-text-2-jasmine.git
+[submodule "Packages/LESS"]
+	path = Packages/LESS
+	url = git://github.com/danro/LESS-sublime.git
