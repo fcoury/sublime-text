@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[expect(${1:object}).to have_received(:${2:method}).with(${0:value})]]></content>
+  <tabTrigger>expw</tabTrigger>
+</snippet>

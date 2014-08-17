@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[expect(${1:object}).to ${0:condition}]]></content>
+  <tabTrigger>exp</tabTrigger>
+</snippet>

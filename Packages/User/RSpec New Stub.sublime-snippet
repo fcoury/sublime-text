@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[allow(${1:object}).to receive(${0:method})]]></content>
+  <tabTrigger>stub</tabTrigger>
+</snippet>

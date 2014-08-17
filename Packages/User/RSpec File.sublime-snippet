@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[require 'spec_helper'
+
+describe ${1:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:\_spec.rb)?/(?2::\u$1)/g}} do
+  $2
+end
+]]></content>
+  <tabTrigger>rspec</tabTrigger>
+</snippet>
