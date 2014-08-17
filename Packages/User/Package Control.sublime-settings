@@ -2,10 +2,26 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Case Conversion",
+		"Color Highlighter",
+		"ColorPicker",
+		"DashDoc",
+		"Dracula Color Scheme",
+		"Elixir",
 		"Emmet",
+		"FindKeyConflicts",
+		"Gist",
 		"GitGutter",
+		"GoSublime",
+		"Jade",
+		"Jinja2",
 		"LiveStyle",
+		"MultiEditUtils",
+		"Origami",
+		"Pretty JSON",
 		"RubyTest",
-		"SideBarEnhancements"
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Spacegray"
 	]
 }
