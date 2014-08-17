@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Latest Gem Version",
+    "command": "load_gem"
+  }
+]
